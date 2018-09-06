@@ -2,12 +2,12 @@
   "name": "dorado-helper",
   "main": "./lib/dorado-helper",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "atom package for language-dorado. Add dorado-helper:convert-ClientEvent command to convert innerText of ClientEvent to <![CDATA[ ]]> fomat",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "dorado-helper:convert-ClientEvent"
   },
-  "repository": "https://github.com/atom/dorado-helper",
+  "repository": "https://github.com/ranforce/dorado-helper",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
