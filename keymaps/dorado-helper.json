@@ -1,0 +1,5 @@
+{
+  "atom-text-editor[data-grammar='text dorado view xml']:not([mini])": {
+    "ctrl-alt-d": "dorado-helper:convert-ClientEvent"
+  }
+}

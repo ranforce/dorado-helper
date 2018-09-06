@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle dorado-helper",
+        "command": "dorado-helper:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "dorado-helper",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "dorado-helper:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

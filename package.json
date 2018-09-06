@@ -1,0 +1,16 @@
+{
+  "name": "dorado-helper",
+  "main": "./lib/dorado-helper",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "dorado-helper:convert-ClientEvent"
+  },
+  "repository": "https://github.com/atom/dorado-helper",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
